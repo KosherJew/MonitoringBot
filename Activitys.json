@@ -1,0 +1,10 @@
+{
+  "ComingSoon":{"Text":"Функция в разработке","Keys":{"Главное Меню":"MainMenu"}},
+"MainMenu":{"Text":"Главное меню","Keys":{"Обеды":"Dinner","Перерывы":"MyBreaks","Открыть смену":"OpenShift","Закрыть смену":"CloseShift"}},
+  "AdminMenu":{"Text":"Админка мониторинга","Keys":{"Обеды":"AdminDinner","Перерывы":"AdminBreaks","Регистрация сотрудника":"reg","Чат для уведомлений":"Notification"}},
+  "Dinner":{"Text":"Обеды","Keys":{"Главное Меню":"MainMenu","Проставление обедов":"SetDinner","Мои Обеды":"HistoryDinner"}},
+  "HistoryDinner":{"Text":"Выберите Дату","Keys":{"Назад":"Dinner","Сегодня":"HistoryDinner Today","Завтра":"HistoryDinner Tomorrow","Послезавтра":"HistoryDinner AfterTomorrow"}},
+  "SetDinner":{"Text":"Выберите Дату","Keys":{"Назад":"Dinner","Сегодня":"Today","Завтра":"Tomorrow","Послезавтра":"AfterTomorrow"}},
+  "MyBreaks":{"Text":"Перерывы","Keys":{"Главное Меню":"MainMenu","Перерыв":"SetBreak","Мои перерывы":"HistoryBreak"}},
+  "SetBreak":{"Text":"Перерывы","Keys":{"Назад":"MyBreaks","На месте":"StopBreak","Обед":"DinnerBreak","Перерыв без времени":"BreakN","Технические проблемы":"TechnicalProblems","Перерыв 5 минут":"Break 5","Перерыв 10 минут":"Break 10","Перерыв 15 минут":"Break 15"}}
+}
